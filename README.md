@@ -1,5 +1,8 @@
 # taller8
-
+INTEGRANTES:-JAVIER VIÑAN
+            -KENNY PAREDES
+            -DALTON FLORES
+            -CARLOS CORREA
 ## Diseño de la solución de problemas con pseudocódigo aplicando arreglos unidimensionales.
 
 A. Revisar los ejercicios y problemáticas de la carpeta ej1, ej2, ej3. Plantear las mejores o completar lo solicitado
